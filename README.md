@@ -14,12 +14,15 @@ using CRNN(CNN + RNN) model implemented by Tensorflow
 Data used in this code are downdload [here](https://drive.google.com/file/d/15ULMGkXxPRadFOqUs1-7BUiZv-_QNpGx/view?usp=sharing)
 
 The dataset include 1838 images and its label are stored in json file, which is provided by Cinnamon AI.
+
 Here is thefirst look of the raw data
 ![](raw_data.jpg)
 Its label structure in json file
 ![](label.png)
+
 Our pipeline
 ![image](https://user-images.githubusercontent.com/52684784/167296607-7745c197-ee8b-44f8-995c-f5086c813d80.png)
+
 The tradition method of OCR is using CNN where we crop each leter and use them to train our model, however this method have many flaws:
 * It cannot predict long sequence text
 * Time consuming
