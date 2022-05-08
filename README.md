@@ -15,4 +15,4 @@ The dataset, which contain 1838 images and its label are stored in json file, is
 Here is the preview of the raw data
 ![](raw_data.jpg)
 And here is its label structure in json file
-![](label.npg)
+![](label.png)
