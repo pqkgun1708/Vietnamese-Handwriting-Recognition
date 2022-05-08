@@ -33,5 +33,10 @@ By using CRNN instead of normal CNN, we can shorten the time needed for training
 The image will be sliced base on the time step that we define in the RNN step and will be decoded later on using CTC loss function
 ![image](https://user-images.githubusercontent.com/52684784/167296961-bf4692bf-77ba-48a3-a129-44904168750a.png)
 
-
+# Result
+The training process took me around 2 hours with 15.8123 loss
+By extracting the loss, i can calculate the most 3 import metrics for text-based regconition task is:
+* CER (Character error rate): 
+* WER (Word error rate):
+* SER (Sequence error rate): 
 
