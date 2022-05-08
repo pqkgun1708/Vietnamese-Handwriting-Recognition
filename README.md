@@ -12,6 +12,7 @@ using CRNN(CNN + RNN) model implemented by Tensorflow
 * Calculate metrics for SER, WER and CER
 # Data preprocessing
 Data used in this code are downdloaded [here](https://drive.google.com/file/d/15ULMGkXxPRadFOqUs1-7BUiZv-_QNpGx/view?usp=sharing)
+
 The dataset include 1838 images and its label are stored in json file, which is provided by Cinnamon AI.
 Here is thefirst look of the raw data
 ![](raw_data.jpg)
