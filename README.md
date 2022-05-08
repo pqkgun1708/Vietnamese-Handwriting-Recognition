@@ -48,3 +48,4 @@ These sources are provided by my supervisor teacher in this prethesis
 * [CTC](https://www.youtube.com/watch?v=UMxvZ9qHwJs)
 * [Cracking Captcha using only OpenCV and CNN](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
 * [Evaluate OCR](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510)
+* [Nhận diện text trong hình ảnh với CRNN+CTC](https://viblo.asia/p/nhan-dien-text-trong-hinh-anh-voi-crnnctc-Eb85o9rBZ2G)
