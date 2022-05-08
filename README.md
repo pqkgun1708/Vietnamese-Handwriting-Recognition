@@ -1,2 +1,4 @@
 # Vietnamese-Handwriting-Recognition
-Using CRNN(CNN + RNN) model implemented by Tensorflow to receive input data as Vietnamese Handwriting image and process to read them
+This is my prethesis project where i use what i learn to make a model that can read Vietnamese handwritten as image input and process to read them
+* Using CRNN(CNN + RNN) model implemented by Tensorflow 
+
