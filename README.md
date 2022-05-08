@@ -13,4 +13,6 @@ using CRNN(CNN + RNN) model implemented by Tensorflow
 # Data preprocessing
 The dataset, which contain 1838 images and its label are stored in json file, is provided by Cinnamon AT.
 Here is the preview of the raw data
-!(raw_data.jpg)
+![](raw_data.jpg)
+And here is its label structure in json file
+![](label.npg)
