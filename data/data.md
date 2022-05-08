@@ -1,1 +1,0 @@
-Data used in this code are downdloaded [here](https://drive.google.com/file/d/15ULMGkXxPRadFOqUs1-7BUiZv-_QNpGx/view?usp=sharing)
