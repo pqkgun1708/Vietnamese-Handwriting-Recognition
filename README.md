@@ -35,7 +35,8 @@ The image will be sliced base on the time step that we define in the RNN step an
 
 # Result
 The training process took me around 2 hours with 15.8123 loss
-By extracting the loss, i can calculate the most 3 import metrics for text-based regconition task is:
+
+By analyzing the loss, i can calculate the most 3 import metrics for text-based regconition task
 * CER (Character error rate): 
 * WER (Word error rate):
 * SER (Sequence error rate): 
