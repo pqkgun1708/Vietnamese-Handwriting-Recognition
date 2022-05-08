@@ -11,8 +11,19 @@ using CRNN(CNN + RNN) model implemented by Tensorflow
 * Prediction
 * Calculate metrics for SER, WER and CER
 # Data preprocessing
-The dataset, which contain 1838 images and its label are stored in json file, is provided by Cinnamon AT.
-Here is the preview of the raw data
+The dataset include 1838 images and its label are stored in json file, which is provided by Cinnamon AI.
+Here is thefirst look of the raw data
 ![](raw_data.jpg)
-And here is its label structure in json file
+Its label structure in json file
 ![](label.png)
+Our pipeline
+![image](https://user-images.githubusercontent.com/52684784/167296607-7745c197-ee8b-44f8-995c-f5086c813d80.png)
+The tradition method of OCR is using CNN where we crop each leter and use them to train our model, however this method have many flaws:
+* It cannot predict long sequence text
+* Time consuming
+* Expensive
+In this project, I use the CRNN model which is the combination of CNN, RNN and CTC loss for image-based sequence regconition goal which is perfect in this scenario.
+By using CRNN instead of normal CNN, we can shorten the time needed for training and also increase accuracy.
+The image will be sliced base on the time step that we define in the RNN step and will be decoded later on using CTC loss function
+![image](https://user-images.githubusercontent.com/52684784/167296961-bf4692bf-77ba-48a3-a129-44904168750a.png)
+
