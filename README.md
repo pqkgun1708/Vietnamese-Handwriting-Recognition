@@ -19,7 +19,7 @@ Here is the first look of the raw data
 Its label structure in json file
 ![](label.png)
 
-Our pipeline
+Our model
 ![image](https://user-images.githubusercontent.com/52684784/167296607-7745c197-ee8b-44f8-995c-f5086c813d80.png)
 
 The tradition method of OCR is using CNN where we crop each leter and use them to train our model, however this method have many flaws:
