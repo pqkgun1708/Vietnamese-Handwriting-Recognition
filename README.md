@@ -33,7 +33,7 @@ The image will be sliced base on the time step that we define in the RNN step an
 ![image](https://user-images.githubusercontent.com/52684784/167296961-bf4692bf-77ba-48a3-a129-44904168750a.png)
 
 # Result
-The training process took me around 2 hours with 15.8123 loss
+The training process took me around 
 
 By analyzing the loss, i can calculate the most 3 import metrics for text-based regconition task
 * CER (Character error rate): 
