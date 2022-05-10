@@ -22,7 +22,7 @@ Its label structure in json file
 Our model
 ![image](https://user-images.githubusercontent.com/52684784/167296607-7745c197-ee8b-44f8-995c-f5086c813d80.png)
 
-The tradition method of OCR is using CNN where we crop each leter and use them to train our model, however this method have many flaws:
+The tradition method of OCR is using CNN where we crop each letter and use them to train our model, however this method have many flaws:
 * It cannot predict long sequence text
 * Time consuming
 * Expensive
