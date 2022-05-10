@@ -15,7 +15,7 @@ Data used in this code are downdload [here](https://drive.google.com/file/d/15UL
 The dataset include 1838 images and its label are stored in json file, which is provided by Cinnamon AI.
 
 Here is the first look of the raw data
-![](raw_data.jpg)
+![image](https://user-images.githubusercontent.com/52684784/167525733-28edd4a4-1ca5-41b0-99e9-4d1f930661aa.png)
 Its label structure in json file
 ![image](https://user-images.githubusercontent.com/52684784/167524953-3ccafaa4-9468-4f30-954d-e99c28a0939e.png)
 
