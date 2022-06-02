@@ -7,7 +7,7 @@ using CRNN(CNN + RNN) model implemented by Tensorflow
 * Preprocess images (resize, grayscale, blur, threshold)
 * Split dataset into trainset and testset
 * Build CRNN model with CTC loss
-* Prediction
+* Evaluate
 * Calculate metrics for SER, WER and CER
 # Data preprocessing
 Data used in this code are downdload [here](https://drive.google.com/file/d/15ULMGkXxPRadFOqUs1-7BUiZv-_QNpGx/view?usp=sharing)
