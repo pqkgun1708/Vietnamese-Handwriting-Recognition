@@ -33,7 +33,6 @@ The image will be sliced base on the time step that we define in the RNN step an
 
 
 # Result
-The training process took me around 
 
 By analyzing the loss, i can calculate the most 3 import metrics for text-based regconition task
 * CER (Character error rate): 
