@@ -30,7 +30,7 @@ The tradition method of OCR is using CNN where we crop each letter and use them 
 In this project, I use the CRNN model which is the combination of CNN, RNN and CTC loss for image-based sequence regconition goal which is perfect in this scenario.
 By using CRNN instead of normal CNN, we can shorten the time needed for training and also increase accuracy.
 The image will be sliced base on the time step that we define in the RNN step and will be decoded later on using CTC loss function
-![image](https://user-images.githubusercontent.com/52684784/167296961-bf4692bf-77ba-48a3-a129-44904168750a.png)
+
 
 # Result
 The training process took me around 
