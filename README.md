@@ -41,7 +41,7 @@ By analyzing the loss, i can calculate the most 3 import metrics for text-based 
 * SER (Sequence error rate): 
 
 # Ref
-These sources are provided by my supervisor teacher in this prethesis
+These sources are provided by my teacher in this prethesis
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [CRNN explain](https://www.youtube.com/watch?v=uVbOckyUemo)
 * [CTC](https://www.youtube.com/watch?v=UMxvZ9qHwJs)
