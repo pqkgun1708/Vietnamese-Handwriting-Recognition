@@ -43,6 +43,6 @@ By analyzing the loss, i can calculate the most 3 import metrics for text-based 
 These sources are provided by my teacher in this prethesis
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [CRNN explain](https://www.youtube.com/watch?v=uVbOckyUemo)
-* [CTC]([https://www.youtube.com/watch?v=UMxvZ9qHwJs](https://www.youtube.com/watch?v=uVbOckyUemo))
+* [CTC](https://www.youtube.com/watch?v=uVbOckyUemo)
 * [Cracking Captcha using only OpenCV and CNN](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
 * [Evaluate OCR](https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510)
