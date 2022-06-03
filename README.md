@@ -1,18 +1,18 @@
 # Vietnamese-Handwriting-Recognition
 This is my prethesis project where i use what i learnt to make a model that can take Vietnamese handwritten as an image input and try to read them
 using CRNN(CNN + RNN) model implemented by Tensorflow 
-# Here's what im gonna do:
-* Find all images width, height
+# To Do List:
+* Clean data
 * Read image using openCV
 * Preprocess images (resize, grayscale, blur, threshold)
 * Split dataset into trainset and testset
 * Build CRNN model with CTC loss
 * Evaluate
 * Calculate metrics for SER, WER and CER
-# Data preprocessing
-Data used in this code are downdload [here](https://drive.google.com/file/d/15ULMGkXxPRadFOqUs1-7BUiZv-_QNpGx/view?usp=sharing)
+# Data
+Data used in this project is provided by Cinnamon AI. It can be downloaded[here](https://drive.google.com/file/d/15ULMGkXxPRadFOqUs1-7BUiZv-_QNpGx/view?usp=sharing)
 
-The dataset include 1838 images and its label are stored in json file, which is provided by Cinnamon AI.
+The dataset have 1838 images and their label are stored in a json file.
 
 Here is the first look of the raw data
 ![image](https://user-images.githubusercontent.com/52684784/167525733-28edd4a4-1ca5-41b0-99e9-4d1f930661aa.png)
