@@ -1,5 +1,5 @@
 # Vietnamese-Handwriting-Recognition
-This is my prethesis project where i use what i learnt to make a model that can take Vietnamese handwritten as an image input and try to read them
+This is my prethesis project where i attempt to build a model that can take Vietnamese handwritten as an image input and try to read them
 using CRNN(CNN + RNN) model implemented by Tensorflow 
 # Requirement:
 * tensorflow, keras
