@@ -1,6 +1,11 @@
 # Vietnamese-Handwriting-Recognition
 This is my prethesis project where i use what i learnt to make a model that can take Vietnamese handwritten as an image input and try to read them
 using CRNN(CNN + RNN) model implemented by Tensorflow 
+# Requirement:
+* tensorflow, keras
+* numpy, pandas
+* pickle
+* streamlit
 # To Do List:
 * Clean data
 * Read image using openCV
@@ -35,9 +40,7 @@ The image will be sliced base on the time step that we define in the RNN step an
 # Result
 
 By analyzing the loss, i can calculate the most 3 import metrics for text-based regconition task
-* CER (Character error rate): 
-* WER (Word error rate):
-* SER (Sequence error rate): 
+![image](https://user-images.githubusercontent.com/52684784/172379339-6e4b0228-1997-4efc-afc9-a445718ecf0d.png)
 
 # Ref
 These sources are provided by my teacher in this prethesis
