@@ -39,8 +39,16 @@ The image will be sliced base on the time step that we define in the RNN step an
 
 # Result
 
-By analyzing the loss, i can calculate the most 3 import metrics for text-based regconition task
+By analyzing the loss, i can calculate the most 3 import metrics for text-based regconition task.
+
 ![image](https://user-images.githubusercontent.com/52684784/172379339-6e4b0228-1997-4efc-afc9-a445718ecf0d.png)
+
+# UI
+I use simple streamlit code to visualize the process for user interaction. It's pretty easy to use, just pick an handwritting image from your computer
+and the program will read and print the result on the screen
+
+![image](https://user-images.githubusercontent.com/52684784/172382579-a75027ab-632f-4bb1-b71d-8be7ac4c0f4f.png)
+
 
 # Ref
 These sources are provided by my teacher in this prethesis
